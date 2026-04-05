@@ -1,0 +1,10 @@
+#Madlibs game, in this game user will enter random words which will get inserted to some lines which later makes a story with those words
+Adjective1=input("Enter an adjective (description):")
+Noun=input("Enter a Noun (name/place/animal/thing):")
+Adjective2=input("Enter an adjective again (description):")
+Verb=input("Enter a verb (ending with ing):")
+Adjective3=input("Enter an adjective again!! :")
+print(f"Once I went to a {Adjective1} muesuem. ")
+print(f"There I found a {Noun}. ")
+print(f"The {Noun} was {Adjective2} and {Verb}")
+print(f"I was {Adjective3}")
