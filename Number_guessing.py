@@ -1,4 +1,4 @@
-# Number guessing game
+# Number guessing game 
 import random
 low=1
 high=100
