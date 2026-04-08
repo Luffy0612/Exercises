@@ -60,4 +60,4 @@ for i in range(8):
     for x in dice:
         print(dice_art.get(x)[i],end=" ")
     print()
-print(total)
+print(f"Total = {total}")
